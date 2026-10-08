@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Opus Septum: exact R = 7 verifier"
+message: "If you use this computational supplement, please cite the associated Opus Septum manuscript and this repository."
+type: software
+authors:
+  - family-names: Turner
+    given-names: "C. Brice"
+    orcid: "https://orcid.org/0009-0008-1836-153X"
+abstract: "Exhaustive and direct verification code supporting the first exact secondary-order-seven example for the seed pair (2,3), at p = 551,194,727."
+keywords:
+  - number theory
+  - discrete logarithm
+  - multiplicative order
+  - computational verification
+  - secondary order
+repository-code: "https://github.com/siplebrice-ai/opus-septum-verifier"
+license: ""
