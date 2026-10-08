@@ -1,0 +1,1 @@
+START=5 N=200000000 primes_checked=11078935 equal_order=3134380 eligible=893795 root_tests=9932580 expected=2.09905219485717 hits=0 seconds=23.310898685
